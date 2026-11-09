@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v2.3.0
+_src_path: https://github.com/napari/napari-plugin-template
+display_name: Segmentea
+email: anniek.stokkermans@gmail.com
+full_name: Ko Sugawara; Anniek Stokkermans
+github_repository_url: provide later
+github_username_or_organization: segmentea
+include_reader_plugin: false
+include_sample_data_plugin: false
+include_widget_plugin: true
+include_writer_plugin: true
+install_dependabot: true
+install_precommit: false
+license: BSD-3
+module_name: napari_segmentea
+plugin_name: napari-segmentea
+short_description: 'A plugin for interactive segmentation curation '
